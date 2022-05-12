@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jamie Burnip</h1>
+<h3 align="center">I'm a software developer for Ticketmaster.</h3>
 
 <!--
 **jamieburnip/jamieburnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
